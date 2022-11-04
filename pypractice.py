@@ -12,7 +12,6 @@
 
 
 
-
 #ch = input("Enter a character: ")
 #if ch.isdigit():
 #    print(ch, "try again ")
@@ -33,3 +32,4 @@ my_new_list.sort()
 print('list in order: ', my_new_list)
     
 
+print("test")
