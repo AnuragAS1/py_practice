@@ -14,3 +14,4 @@ partner ={
     "national" : "pkr, dharan, dharara",
     "international" : "britain, monaco, parleg",   
 }
+print("Hello World")
